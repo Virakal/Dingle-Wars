@@ -1,22 +1,22 @@
 **Date: 14/05/2025**
 
-The Twilek [[Gumala Adeen]] has hired us for [[The Job]] - ensuring his safety while we transport [[The Artefact]] to Coruscant. 
+The Twilek [Gumala Adeen](../Characters/NPC/Gumala%20Adeen.md) has hired us for [The Job](../Plot/The%20Job.md) - ensuring his safety while we transport [The Artefact](../Plot/The%20Artefact.md) to Coruscant. 
 
-We landed on [[Infinity Station]]:, a space station owned by [[Quasar Investment Group]]. (TODO: Did they own it? Missed part of it.)
+We landed on [Infinity Station](../Places/Infinity%20Station/Infinity%20Station.md), a space station owned by [Quasar Investment Group](../Factions%20and%20Groups/Quasar%20Investment%20Group.md). (TODO: Did they own it? Missed part of it.)
 
-[[Gumala Adeen]] went to secure lodging and inform his father of progress.
+[Gumala Adeen](../Characters/NPC/Gumala%20Adeen.md) went to secure lodging and inform his father of progress.
 
-[[Prashap]] wandered off on his own while everybody else went to the Cantina. [[Mishy]] gets a lot of suspicious looks due to being a wookie and people assume he's here for the arena.
+[Prashap](../Characters/PCs/Prashap.md) wandered off on his own while everybody else went to the Cantina. [Mishy](../Characters/PCs/Mishy.md) gets a lot of suspicious looks due to being a wookie and people assume he's here for the arena.
 
-[[Prashap]] wanders around mindlessly and ends up at the casino. He starts gambling and sharks some people who quickly leave.
+[Prashap](../Characters/PCs/Prashap.md) wanders around mindlessly and ends up at the casino. He starts gambling and sharks some people who quickly leave.
 
-[[Mishy]] manages to order the a massive meat haunch and begins eating at the bar.
+[Mishy](../Characters/PCs/Mishy.md) manages to order the a massive meat haunch and begins eating at the bar.
 
-[[Vyna]] and [[Fridge]] are drinking together. They're charged a lot for a drinking apparatus for Fridge who complains but Vyna pays for it all anyway.
+[Vyna](../Characters/PCs/Vyna.md) and [Fridge](../Characters/PCs/Fridge.md) are drinking together. They're charged a lot for a drinking apparatus for Fridge who complains but Vyna pays for it all anyway.
 
-[[Luca]] sits at the bar and orders a drink and a meal. He overhears someone say something about someone called [[Toronga]]. (TODO: What did he hear?)
+[Luca](../Characters/PCs/Luca.md) sits at the bar and orders a drink and a meal. He overhears someone say something about someone called [Toronga](../Characters/NPC/Toronga.md). (TODO: What did he hear?)
 
-[[Prashap]] tries to grab a champagne flute while on the way to the high rollers' area and fucks up, smashing it on the floor. The droid leading him there leaves him where he is because of it. He notices a mouse droid thing scurry into a hole. He wanders past the [[Infinity Dome]] and sees a big billboard featuring a fight between a (something big) and a Jawa. He continues on to [[Fudd Ruckers]].
+[Prashap](../Characters/PCs/Prashap.md) tries to grab a champagne flute while on the way to the high rollers' area and fucks up, smashing it on the floor. The droid leading him there leaves him where he is because of it. He notices a mouse droid thing scurry into a hole. He wanders past the [Infinity Dome](../Places/Infinity%20Station/Infinity%20Dome.md) and sees a big billboard featuring a fight between a (something big) and a Jawa. He continues on to [Fudd Ruckers](../Places/Infinity%20Station/Fudd%20Ruckers.md).
 
 Vyna gets their tab.
 
@@ -28,7 +28,7 @@ Partway through the train stops and we're told it's the end of the line by a gua
 
 When we get to the station we see maintenance crews working and a hologram police tape sectioning off where the ships are. Huge group of people waiting around with luggage. Security guy with a megaphone is organising the group telling them to form an orderly line to get their luggage.
 
-We look down from an observation deck and notice that the [[Lady Finger]] has exploded and little is left.
+We look down from an observation deck and notice that the [Lady Finger](../Plot/Lady%20Finger.md) has exploded and little is left.
 
 Luca guesses a Nemoidian is behind it. We try to investigate and notice a maintenance guy going through a door (missed why that's relevant?). Vyna tries to send their droid through the door to investigate which gets us noticed by a security droid. Luca wanders away trying to distract the droid and slips into the crowd.
 
@@ -45,7 +45,7 @@ In the hallway there's a freight elevator and a few doors. A supply closet and a
 
 We go to the elevator, it has a D floor and U floor button. U is lit up. We hit the D button and it goes down. It opens up to a corridor to the space port. We sneak up and start investigating the wreckage.
 
-Prashap tries to contact us, making our commlinks ring loudly but we get away with it. He tells us he's off to find [[Gumala Adeen]].
+Prashap tries to contact us, making our commlinks ring loudly but we get away with it. He tells us he's off to find [Gumala Adeen](../Characters/NPC/Gumala%20Adeen.md).
 
 Luca figures out where the briefcase might be and finds it in Gumala's quarters. Vyna searches the ship thoroughly but doesn't find much. Mishy manages to alert a droid by ripping out a part of the ship that makes sparks. The droid sprays the sparks, focuses on Mishy then flies off before he can do anything. He goes to find the main group.
 
@@ -53,4 +53,4 @@ Luca notices that the suitcase is very light. Vyna suggests we open it but Luca 
 
 We start trying to open the briefcase as we walk back tot he elevator. Mishy figures out the password "LadyFinger" and opens the case up. There's a pristine silver-hilted lightsaber inside.
 
-[[Luca]] seems to have some connection to it - he had a feeling in his chest when he saw it. [[Vyna]] noticed that Luca notices something.
+[Luca](../Characters/PCs/Luca.md) seems to have some connection to it - he had a feeling in his chest when he saw it. [Vyna](../Characters/PCs/Vyna.md) noticed that Luca notices something.

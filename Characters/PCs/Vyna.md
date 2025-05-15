@@ -2,4 +2,4 @@ Player: Goose
 
 Actual Mandalorian.
 
-Friends with [[Fridge]].
+Friends with [Fridge](Fridge.md).

@@ -1,1 +1,1 @@
-Hotel where [[Gumala Adeen]] is setting up.
+Hotel where [Gumala Adeen](../../Characters/NPC/Gumala%20Adeen.md) is setting up.

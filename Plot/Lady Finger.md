@@ -1,1 +1,1 @@
-[[Gumala Adeen]]'s ship. Naboo cruiser esque.
+[Gumala Adeen](../Characters/NPC/Gumala%20Adeen.md)'s ship. Naboo cruiser esque.

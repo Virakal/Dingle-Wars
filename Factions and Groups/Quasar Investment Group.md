@@ -1,1 +1,1 @@
-They own [[Infinity Station]].
+They own [Infinity Station](../Places/Infinity%20Station/Infinity%20Station.md).
