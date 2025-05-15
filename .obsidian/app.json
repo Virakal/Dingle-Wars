@@ -3,5 +3,8 @@
   "userIgnoreFilters": [
     "themes/",
     "Images/"
-  ]
+  ],
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "Images",
+  "newFileLocation": "current"
 }
