@@ -1,0 +1,1 @@
+Hotel where [[Gumala Adeen]] is setting up.

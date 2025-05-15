@@ -1,0 +1,7 @@
+Species: Twilek
+
+Our benefactor. Not super comfortable around us. Claims to be of noble birth.
+
+Speaks Huttese. Seems to have some respect for [[Luca]].
+
+Pilots the [[Lady Finger]].
