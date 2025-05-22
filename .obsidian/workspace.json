@@ -11,15 +11,14 @@
             "id": "34515d4122c49016",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Session/Session 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "Characters/NPC/The Cathar From Luca's Vision.md",
+                "bFile": "Characters/NPC/The Cathar From Luca's Vision.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Session 2"
+              "icon": "diff",
+              "title": "Diff: The Cathar From Luca's Vision"
             }
           }
         ]
@@ -54,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "korriban",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,16 +181,18 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "016670c00306caf5",
+  "active": "34515d4122c49016",
   "lastOpenFiles": [
+    "Characters/NPC/The Cathar From Luca's Vision.md",
+    "Untitled.canvas",
+    "Characters/PCs/Prashap.md",
+    "Session/Session 2.md",
     "Session/Session 1.md",
     "Places/Korriban.md",
-    "Characters/NPC/The Cathar From Luca's Vision.md",
     "Characters/NPC/Toronga.md",
     "Characters/NPC/The Hotel Room Attacker.md",
     "Characters/NPC/Gumala Adeen.md",
     "Characters/PCs/Fridge.md",
-    "Session/Session 2.md",
     "Plot/The Lightsaber.md",
     "Images/Cathar.png",
     "Images/Fridge's Ship Bridge.png",
@@ -207,14 +208,11 @@
     "Places/Infinity Station/Infinity Dome.md",
     "Places/Infinity Station/Fudd Ruckers.md",
     "Places/Infinity Station/Casino District.md",
-    "Characters/PCs/Prashap.md",
     "Characters/PCs/Luca.md",
     "Plot/The Setting.md",
     "Plot/Lady Finger.md",
     "Factions and Groups/Quasar Investment Group.md",
     "Plot/The Job.md",
-    "Places/Infinity Station/The Station.md",
-    "Untitled.canvas",
     "Images/Saber Hilt.png",
     "Images/S1 Ship Map.png",
     "Images/Fridge Portrait.png",
