@@ -11,14 +11,15 @@
             "id": "34515d4122c49016",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Characters/PCs/Fridge.md",
-                "bFile": "Characters/PCs/Fridge.md",
-                "aRef": ""
+                "file": "Session/Session 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: Fridge"
+              "icon": "lucide-file",
+              "title": "Session 2"
             }
           }
         ]
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "korriban",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,19 +182,25 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "34515d4122c49016",
+  "active": "016670c00306caf5",
   "lastOpenFiles": [
+    "Session/Session 1.md",
+    "Places/Korriban.md",
+    "Characters/NPC/The Cathar From Luca's Vision.md",
+    "Characters/NPC/Toronga.md",
+    "Characters/NPC/The Hotel Room Attacker.md",
+    "Characters/NPC/Gumala Adeen.md",
+    "Characters/PCs/Fridge.md",
     "Session/Session 2.md",
+    "Plot/The Lightsaber.md",
+    "Images/Cathar.png",
     "Images/Fridge's Ship Bridge.png",
     "Places/Fridge's Ship.md",
     "Images/Fridge's Ship.webp",
     "Images/Hotel Lobby.png",
-    "Characters/PCs/Fridge.md",
     "Characters/PCs/Vyna.md",
     "Places/Infinity Station/The Market.md",
     "Places/Infinity Station/Infinity Station.md",
-    "Session/Session 1.md",
-    "Plot/The Artefact.md",
     "consistency-report.md",
     "Characters/PCs/Mishy.md",
     "Places/Infinity Station/Starlight Hotel.md",
@@ -201,8 +209,6 @@
     "Places/Infinity Station/Casino District.md",
     "Characters/PCs/Prashap.md",
     "Characters/PCs/Luca.md",
-    "Characters/NPC/Toronga.md",
-    "Characters/NPC/Gumala Adeen.md",
     "Plot/The Setting.md",
     "Plot/Lady Finger.md",
     "Factions and Groups/Quasar Investment Group.md",
@@ -210,14 +216,11 @@
     "Places/Infinity Station/The Station.md",
     "Untitled.canvas",
     "Images/Saber Hilt.png",
-    "Rules.md",
-    "2025-05-15.md",
     "Images/S1 Ship Map.png",
     "Images/Fridge Portrait.png",
     "Images/Mishy Portrait 2.png",
     "Images/Prashap Portrait.png",
     "Images/Mishy Portrait 1.png",
-    "Images/Luca Portrait.png",
     "Factions and Groups",
     "Images",
     "Plot",

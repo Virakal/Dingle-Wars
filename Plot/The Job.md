@@ -1,4 +1,4 @@
-We are hired to protect [Gumala Adeen](../Characters/NPC/Gumala%20Adeen.md) while we transport [The Artefact](The%20Artefact.md) in the [Lady Finger](Lady%20Finger.md).
+We are hired to protect [Gumala Adeen](../Characters/NPC/Gumala%20Adeen.md) while we transport [The Lightsaber](The%20Lightsaber.md) in the [Lady Finger](Lady%20Finger.md).
 
 People are expecting Gumala at Coruscant and they'll come after us if he doesn't show up.
 

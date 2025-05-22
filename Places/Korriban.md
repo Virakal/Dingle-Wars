@@ -1,0 +1,1 @@
+The Sith home planet. [Luca](../Characters/PCs/Luca.md) had a vision of [The Cathar From Luca's Vision](../Characters/NPC/The%20Cathar%20From%20Luca's%20Vision.md) telling him to return [The Lightsaber](../Plot/The%20Lightsaber.md) here in return for training.
