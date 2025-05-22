@@ -1,4 +1,4 @@
-Player: Goose
+**Player:** Goose
 
 Actual Mandalorian.
 

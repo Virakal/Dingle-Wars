@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2b2cbf2fbf54a8",
+        "id": "0fb9dfeb13dc8394",
         "type": "tabs",
         "children": [
           {
-            "id": "9d9a5ad9e8f7e1af",
+            "id": "34515d4122c49016",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Characters/PCs/Fridge.md",
+                "bFile": "Characters/PCs/Fridge.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Fridge"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,22 +180,36 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "9d9a5ad9e8f7e1af",
+  "active": "34515d4122c49016",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Session/Session 1.md",
-    "Characters/NPC/Gumala Adeen.md",
-    "Characters/NPC/Toronga.md",
+    "Session/Session 2.md",
+    "Images/Fridge's Ship Bridge.png",
+    "Places/Fridge's Ship.md",
+    "Images/Fridge's Ship.webp",
+    "Images/Hotel Lobby.png",
     "Characters/PCs/Fridge.md",
-    "Characters/PCs/Luca.md",
-    "Characters/PCs/Mishy.md",
-    "Characters/PCs/Prashap.md",
     "Characters/PCs/Vyna.md",
-    "Factions and Groups/Quasar Investment Group.md",
-    "Images/Saber Hilt.png",
+    "Places/Infinity Station/The Market.md",
+    "Places/Infinity Station/Infinity Station.md",
+    "Session/Session 1.md",
     "Plot/The Artefact.md",
-    "Plot/The Job.md",
+    "consistency-report.md",
+    "Characters/PCs/Mishy.md",
+    "Places/Infinity Station/Starlight Hotel.md",
+    "Places/Infinity Station/Infinity Dome.md",
+    "Places/Infinity Station/Fudd Ruckers.md",
+    "Places/Infinity Station/Casino District.md",
+    "Characters/PCs/Prashap.md",
+    "Characters/PCs/Luca.md",
+    "Characters/NPC/Toronga.md",
+    "Characters/NPC/Gumala Adeen.md",
+    "Plot/The Setting.md",
     "Plot/Lady Finger.md",
+    "Factions and Groups/Quasar Investment Group.md",
+    "Plot/The Job.md",
+    "Places/Infinity Station/The Station.md",
+    "Untitled.canvas",
+    "Images/Saber Hilt.png",
     "Rules.md",
     "2025-05-15.md",
     "Images/S1 Ship Map.png",
@@ -201,21 +218,13 @@
     "Images/Prashap Portrait.png",
     "Images/Mishy Portrait 1.png",
     "Images/Luca Portrait.png",
-    "Images/Infinity Station Diagram.png",
-    "Images/Infinity Station Diagram.png",
-    "Places/Infinity Station/Infinity Station.md",
-    "Places/Infinity Station/Starlight Hotel.md",
     "Factions and Groups",
-    "Places/Infinity Station/Casino District.md",
-    "Places/Infinity Station/Fudd Ruckers.md",
-    "Places/Infinity Station/Infinity Dome.md",
     "Images",
     "Plot",
     "Places/Infinity Station",
     "Characters/NPC",
     "Characters/PCs",
     "Characters",
-    "Welcome.md",
     "desktop.ini",
     "Places",
     "Session"

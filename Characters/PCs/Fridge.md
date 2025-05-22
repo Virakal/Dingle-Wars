@@ -1,4 +1,5 @@
-Player: Laura
+**Player:** Laura
+**Species:** Kaleesh
 
 ![[Fridge Portrait.png|250]]
 

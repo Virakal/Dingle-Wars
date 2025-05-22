@@ -1,1 +1,1 @@
-[Gumala Adeen](../Characters/NPC/Gumala%20Adeen.md)'s ship. Naboo cruiser esque.
+A Naboo-cruiser style ship belonging to [Gumala Adeen](../Characters/NPC/Gumala%20Adeen.md). The party aside from [Fridge](../Characters/PCs/Fridge.md) were travelling on it during [Session 1](../Session/Session%201.md).

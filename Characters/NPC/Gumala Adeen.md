@@ -1,4 +1,4 @@
-Species: Twilek
+**Species:** Twilek
 
 Our benefactor. Not super comfortable around us. Claims to be of noble birth.
 

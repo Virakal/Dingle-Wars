@@ -1,7 +1,7 @@
-Player: Adam
-Species: Gungan
-Name: Prashap Ba'as
+**Player:** Adam
+**Species:** Gungan
+**Name:** Prashap Ba'as
 
 ![[Prashap Portrait.png|250]]
 
-Gambler?
+A scoundrel and competent gambler. Also a jizz-wailer.

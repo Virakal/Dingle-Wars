@@ -1,5 +1,5 @@
-Player: Arahen
-Name: Luca Orden
+**Player:** Arahen
+**Name:** Luca Orden
 
 ![[Luca Portrait.png]]
 
