@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0fb9dfeb13dc8394",
+        "id": "ab1bcf46d9885e19",
         "type": "tabs",
         "children": [
           {
-            "id": "34515d4122c49016",
+            "id": "3ea39de8d143e94e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Characters/NPC/The Cathar From Luca's Vision.md",
-                "bFile": "Characters/NPC/The Cathar From Luca's Vision.md",
-                "aRef": ""
+                "file": "Session/Session 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: The Cathar From Luca's Vision"
+              "icon": "lucide-file",
+              "title": "Session 3"
             }
           }
         ]
@@ -74,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,37 +181,38 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "34515d4122c49016",
+  "active": "3ea39de8d143e94e",
   "lastOpenFiles": [
-    "Characters/NPC/The Cathar From Luca's Vision.md",
-    "Untitled.canvas",
-    "Characters/PCs/Prashap.md",
+    "Places/Infinity Station/Infinity Station.md",
+    "Session/Session 3.md",
     "Session/Session 2.md",
     "Session/Session 1.md",
-    "Places/Korriban.md",
+    "Places/Infinity Station/Starlight Hotel.md",
+    "Places/Infinity Station/The Market.md",
+    "Places/Infinity Station/Infinity Dome.md",
+    "Places/Fridge's Ship.md",
+    "Factions and Groups/Quasar Investment Group.md",
+    "Places/Infinity Station/Crystal Plaza.md",
     "Characters/NPC/Toronga.md",
     "Characters/NPC/The Hotel Room Attacker.md",
+    "Characters/NPC/The Cathar From Luca's Vision.md",
     "Characters/NPC/Gumala Adeen.md",
     "Characters/PCs/Fridge.md",
+    "Characters/PCs/Luca.md",
+    "Characters/PCs/Mishy.md",
+    "Characters/PCs/Prashap.md",
+    "Characters/PCs/Vyna.md",
+    "Untitled.canvas",
+    "Places/Korriban.md",
     "Plot/The Lightsaber.md",
     "Images/Cathar.png",
     "Images/Fridge's Ship Bridge.png",
-    "Places/Fridge's Ship.md",
     "Images/Fridge's Ship.webp",
     "Images/Hotel Lobby.png",
-    "Characters/PCs/Vyna.md",
-    "Places/Infinity Station/The Market.md",
-    "Places/Infinity Station/Infinity Station.md",
     "consistency-report.md",
-    "Characters/PCs/Mishy.md",
-    "Places/Infinity Station/Starlight Hotel.md",
-    "Places/Infinity Station/Infinity Dome.md",
     "Places/Infinity Station/Fudd Ruckers.md",
-    "Places/Infinity Station/Casino District.md",
-    "Characters/PCs/Luca.md",
     "Plot/The Setting.md",
     "Plot/Lady Finger.md",
-    "Factions and Groups/Quasar Investment Group.md",
     "Plot/The Job.md",
     "Images/Saber Hilt.png",
     "Images/S1 Ship Map.png",

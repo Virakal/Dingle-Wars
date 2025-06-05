@@ -1,1 +1,0 @@
-Basically a huge Vegas type place. Everything is gold metal and neon signs.

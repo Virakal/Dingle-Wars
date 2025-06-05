@@ -12,8 +12,9 @@ The station has private security rather than the usual storm troopers; There is 
 There seem to be four separate security groups:
 - Market security
 - Dome security
-- Droid security
+- Droid security - PS Private Security? For the port/dock? Wear yellow outfits and are painted yellow.
 - (TODO: Missed one)
+Rancor group do the casino, hotel and marketplace security.
 ## Amenities
 - Cantina
 	- [Fudd Ruckers](Fudd%20Ruckers.md)
@@ -21,7 +22,7 @@ There seem to be four separate security groups:
 - [The Market](The%20Market.md)
 - Spaceport with repair bay
 - Transit Station
-- [Casino District](Casino%20District.md)
+- [Crystal Plaza](Crystal%20Plaza.md)
 	- [Infinity Dome](Infinity%20Dome.md)
 - Lodging Area
 	- [Starlight Hotel](Starlight%20Hotel.md)
