@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session/Session 3.md",
+                "file": "Characters/NPC/The Broker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 3"
+              "title": "The Broker"
+            }
+          },
+          {
+            "id": "359a6ba80f75a232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session/Session 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +197,20 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "3ea39de8d143e94e",
+  "active": "359a6ba80f75a232",
   "lastOpenFiles": [
     "Places/Infinity Station/Infinity Station.md",
+    "Characters/NPC/The Broker.md",
+    "Characters/NPC/The Cathar From Luca's Vision.md",
+    "Characters/NPC/Dax.md",
+    "Characters/NPC/Toronga.md",
+    "Characters/NPC/The Hotel Room Attacker.md",
+    "Characters/NPC/Gumala Adeen.md",
+    "Characters/PCs/Luca.md",
+    "Session/Session 4.md",
     "Session/Session 3.md",
+    "Images/Pasted image 20250626023359.png",
+    "Images/Pasted image 20250626023336.png",
     "Session/Session 2.md",
     "Session/Session 1.md",
     "Places/Infinity Station/Starlight Hotel.md",
@@ -193,12 +219,7 @@
     "Places/Fridge's Ship.md",
     "Factions and Groups/Quasar Investment Group.md",
     "Places/Infinity Station/Crystal Plaza.md",
-    "Characters/NPC/Toronga.md",
-    "Characters/NPC/The Hotel Room Attacker.md",
-    "Characters/NPC/The Cathar From Luca's Vision.md",
-    "Characters/NPC/Gumala Adeen.md",
     "Characters/PCs/Fridge.md",
-    "Characters/PCs/Luca.md",
     "Characters/PCs/Mishy.md",
     "Characters/PCs/Prashap.md",
     "Characters/PCs/Vyna.md",
@@ -211,15 +232,10 @@
     "Images/Hotel Lobby.png",
     "consistency-report.md",
     "Places/Infinity Station/Fudd Ruckers.md",
-    "Plot/The Setting.md",
-    "Plot/Lady Finger.md",
-    "Plot/The Job.md",
     "Images/Saber Hilt.png",
     "Images/S1 Ship Map.png",
     "Images/Fridge Portrait.png",
     "Images/Mishy Portrait 2.png",
-    "Images/Prashap Portrait.png",
-    "Images/Mishy Portrait 1.png",
     "Factions and Groups",
     "Images",
     "Plot",

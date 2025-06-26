@@ -1,0 +1,1 @@
+Prisoner on [Infinity Station](../../Places/Infinity%20Station/Infinity%20Station.md) who offered to help us out if we freed him. He lead us to [The Broker](The%20Broker.md) then got killed by an octopus thing.
